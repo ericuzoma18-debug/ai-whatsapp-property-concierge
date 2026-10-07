@@ -25,9 +25,8 @@ The system understands the customer's property requirements, searches a property
 - Property database search
 - AI-powered property recommendations
 - Lead scoring and qualification
-- Lead capture in Google Sheets
-- Automatic sales-team email notifications
-- Inspection request detection
+- Automated lead capture
+- Sales-team email notifications
 
 ## Technologies Used
 
@@ -59,5 +58,26 @@ The workflow connects customer communication, AI processing, property data, lead
 
 ## Disclaimer
 
-This project is a portfolio demonstration built to showcase AI automation and workflow design.# ai-whatsapp-property-concierge
-AI-powered WhatsApp Property Concierge that automates property enquiries, recommendations, lead qualification, lead capture, and sales-team notifications.
+This project is a portfolio demonstration built to showcase AI automation and workflow design. It uses sample property data for demonstration purposes and is not presented as a production deployment.
+
+## Project Screenshots
+
+### Workflow
+
+![n8n Workflow](screenshot/Screenshot%202026-09-22%20031529.png)
+
+### Lead Capture
+
+![Google Sheets Lead Capture](screenshot/Screenshot%202026-09-22%20031606.png)
+
+### Sales Notification
+
+![Gmail Sales Notification](screenshot/Screenshot%202026-09-22%20031622.png)
+
+### WhatsApp Conversation
+
+![WhatsApp Conversation](screenshot/Screenshot%202026-09-22%20031639.png)
+
+## Project Demo
+
+[Watch the full demo on LinkedIn](https://www.linkedin.com/posts/ebuka-uzoma-10a301191_ai-automation-n8n-activity-7508446051264184320-Rzh-?utm_source=share&utm_medium=member_ios&rcm=ACoAAC0Su1oB4TYdyugpY1hy5D-D8w4_vleMBX4)
